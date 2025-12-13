@@ -213,3 +213,4 @@ pulls
 (bcoz) 
 (bccha) 
 (ishwar) 
+(devo p psychopsycho) 
