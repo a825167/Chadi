@@ -201,3 +201,4 @@ pulls
 (p) heigh(heigh) truck) 
 (devi puri pucho) 
 (devo jile) 
+(bcom vo idk) 
