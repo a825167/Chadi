@@ -117,3 +117,4 @@ pulls
 (dunno+
 (suboot)
 (from) 
+(dp tel) 
