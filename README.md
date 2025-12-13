@@ -276,3 +276,4 @@ pulls
 (traff hconquerer idk) 
 (brick) 
 (han idk l idk p) 
+(nick kg dj ky sd jd di it y) 
