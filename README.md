@@ -230,3 +230,4 @@ pulls
 (iske kei idk) 
 (officials idk uk off do) 
 (kgsyidikgsyidiydoyd) 
+(idol idk it u) 
