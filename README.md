@@ -256,3 +256,4 @@ pulls
 (NFL jo official) 
 (officiaofficial idol idk) hi
 (idol bcom bccha vo) 
+(hai k kb di jd dj h tk jude) 
