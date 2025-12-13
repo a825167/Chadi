@@ -237,3 +237,4 @@ pulls
 (isiliyeisiliye nhi idk ku) 
 (Bynum) 
 (jd di unindiunindi hmm gk) 
+(bcom nvm jd di if di) 
