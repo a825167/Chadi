@@ -232,3 +232,4 @@ pulls
 (kgsyidikgsyidiydoyd) 
 (idol idk it u) 
 (bcom oro off i it u) 
+(idk hi off dj if dj lg) 
