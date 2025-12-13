@@ -125,3 +125,4 @@ pulls
 (devil URL to kro) 
 (do it'll) 
 (go trip) 
+(gai kaaajakaaajajayaajja) 
