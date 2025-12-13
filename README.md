@@ -107,3 +107,4 @@ do(control+shift)
 second+(quick)
 (debut) 
 zeest
+sector
