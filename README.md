@@ -292,3 +292,4 @@ pulls
 (gay gk off uk ish) 
 (naiv ch g di) 
 (ucch idk idk usse) 
+(magic ch idk idk) 
