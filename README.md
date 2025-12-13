@@ -250,3 +250,4 @@ pulls
 (kgsitsiydoyduof) 
 (jfzufzfjfzufzfuziydhouc ku) 
 (Haydn) 
+(basic kro ju) 
