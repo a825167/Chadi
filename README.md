@@ -199,3 +199,4 @@ pulls
 (dp oro prego) 
 (hairdohairdo urdu) 
 (p) heigh(heigh) truck) 
+(devi puri pucho) 
