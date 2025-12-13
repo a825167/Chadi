@@ -279,3 +279,4 @@ pulls
 (nick kg dj ky sd jd di it y) 
 (get gi jd ch) 
 (teddy f ck h idk) 
+(bachchebachche jd tui idk if v) 
