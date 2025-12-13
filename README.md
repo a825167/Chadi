@@ -108,3 +108,4 @@ second+(quick)
 (debut) 
 zeest
 sector
+decided/cyborg
