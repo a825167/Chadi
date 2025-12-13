@@ -191,3 +191,4 @@ pulls
 (begun kejri up era) 
 (bro iti isi) 
 (devo USC) 
+(crop) 
