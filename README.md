@@ -239,3 +239,4 @@ pulls
 (jd di unindiunindi hmm gk) 
 (bcom nvm jd di if di) 
 (bcom JFK idk jo) 
+(isobarisobar ch jd gl) 
