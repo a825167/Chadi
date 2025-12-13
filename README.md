@@ -109,3 +109,4 @@ second+(quick)
 zeest
 sector
 decided/cyborg
+sector/!cool
