@@ -295,3 +295,4 @@ pulls
 (magic ch idk idk) 
 (MCM mg gi idk idk) 
 (ucch idk) 
+(brick idol) 
