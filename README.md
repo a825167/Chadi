@@ -121,3 +121,4 @@ pulls
 (uD che uk) 
 (hawk) 
 (devil) 
+(devil URL to kro) 
