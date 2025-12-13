@@ -245,3 +245,4 @@ pulls
 (idk g ck hd dj) 
 (idk hey ucch) 
 (idk hi mg ch f di yeh) 
+(odishaodisha ucch) 
