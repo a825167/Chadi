@@ -236,3 +236,4 @@ pulls
 (nnhi chhe) 
 (isiliyeisiliye nhi idk ku) 
 (Bynum) 
+(jd di unindiunindi hmm gk) 
