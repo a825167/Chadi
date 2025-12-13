@@ -258,3 +258,4 @@ pulls
 (idol bcom bccha vo) 
 (hai k kb di jd dj h tk jude) 
 (haddock idk IDK) 
+(NDTV jd di y dj h dy hd di h) 
