@@ -234,3 +234,4 @@ pulls
 (bcom oro off i it u) 
 (idk hi off dj if dj lg) 
 (nnhi chhe) 
+(isiliyeisiliye nhi idk ku) 
