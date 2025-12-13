@@ -197,3 +197,4 @@ pulls
 (crop keep) 
 (factor) 
 (dp oro prego) 
+(hairdohairdo urdu) 
