@@ -173,3 +173,4 @@ pulls
 (chod hal) 
 (buddy) 
 (buck bcom) 
+(se idk it'll) 
