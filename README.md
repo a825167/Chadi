@@ -253,3 +253,4 @@ pulls
 (basic kro ju) 
 (bcuz) tshirt
 (haiconqhaiconquerer bbye usool) 
+(NFL jo official) 
