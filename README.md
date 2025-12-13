@@ -293,3 +293,4 @@ pulls
 (naiv ch g di) 
 (ucch idk idk usse) 
 (magic ch idk idk) 
+(MCM mg gi idk idk) 
