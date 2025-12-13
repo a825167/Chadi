@@ -157,3 +157,4 @@ pulls
 (kgdiydokgdiydoyfoufof) 
 (encouraencourage) 
 (inga) 
+(uzbek) 
