@@ -228,3 +228,4 @@ pulls
 (nan kari idk jd dj r eu r dj jd) 
 (kbxkgdkbxkgd l idk) 
 (iske kei idk) 
+(officials idk uk off do) 
