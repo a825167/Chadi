@@ -269,3 +269,4 @@ pulls
 (bbsr idk us didi) 
 (bebo idk IDK IDK IDK vi) 
 (http idk go idk) 
+(very CNN jd dj g dj t) 
