@@ -257,3 +257,4 @@ pulls
 (officiaofficial idol idk) hi
 (idol bcom bccha vo) 
 (hai k kb di jd dj h tk jude) 
+(haddock idk IDK) 
