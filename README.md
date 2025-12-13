@@ -294,3 +294,4 @@ pulls
 (ucch idk idk usse) 
 (magic ch idk idk) 
 (MCM mg gi idk idk) 
+(ucch idk) 
