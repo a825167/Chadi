@@ -103,3 +103,4 @@ went
 http
 http+(common+action) thus
 control(action) 
+do(control+shift) 
