@@ -255,3 +255,4 @@ pulls
 (haiconqhaiconquerer bbye usool) 
 (NFL jo official) 
 (officiaofficial idol idk) hi
+(idol bcom bccha vo) 
