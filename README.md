@@ -246,3 +246,4 @@ pulls
 (idk hey ucch) 
 (idk hi mg ch f di yeh) 
 (odishaodisha ucch) 
+(urdu di gl icon bbye) 
