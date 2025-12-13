@@ -124,3 +124,4 @@ pulls
 (devil) 
 (devil URL to kro) 
 (do it'll) 
+(go trip) 
