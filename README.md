@@ -240,3 +240,4 @@ pulls
 (bcom nvm jd di if di) 
 (bcom JFK idk jo) 
 (isobarisobar ch jd gl) 
+(oxidizeoxidize hm ki) 
