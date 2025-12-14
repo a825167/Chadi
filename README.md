@@ -309,3 +309,4 @@ pulls
 (ucch idlingidling idol) 
 (bccha ignor mg gl) 
 (mcdonalds henchman gd dj) 
+(bccha idk) ucch) 
