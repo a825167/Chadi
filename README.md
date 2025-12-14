@@ -306,3 +306,4 @@ pulls
 (ucch officiaofficial) official
 (ucch NFL iske) 
 (hang brunt idk) 
+(ucch idlingidling idol) 
