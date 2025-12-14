@@ -307,3 +307,4 @@ pulls
 (ucch NFL iske) 
 (hang brunt idk) 
 (ucch idlingidling idol) 
+(bccha ignor mg gl) 
