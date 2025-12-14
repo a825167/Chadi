@@ -308,3 +308,4 @@ pulls
 (hang brunt idk) 
 (ucch idlingidling idol) 
 (bccha ignor mg gl) 
+(mcdonalds henchman gd dj) 
