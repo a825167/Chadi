@@ -305,3 +305,4 @@ pulls
 (usne icon) 
 (ucch officiaofficial) official
 (ucch NFL iske) 
+(hang brunt idk) 
