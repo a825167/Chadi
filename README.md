@@ -311,3 +311,4 @@ pulls
 (mcdonalds henchman gd dj) 
 (bccha idk) ucch) 
 (Herod HSBC icky) 
+(JFK Kim JFK) 
