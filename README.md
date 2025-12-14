@@ -312,3 +312,4 @@ pulls
 (bccha idk) ucch) 
 (Herod HSBC icky) 
 (JFK Kim JFK) 
+(x dj uk uh t-shirtt-shirts) 
