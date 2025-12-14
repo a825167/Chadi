@@ -315,3 +315,4 @@ pulls
 (x dj uk uh t-shirtt-shirts) 
 (ucch UCL JFK) 
 (usne idk idk) 
+(GEICO kruga iffy l) 
